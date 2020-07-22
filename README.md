@@ -15,7 +15,7 @@ This repository contains the code for the paper:
 + matplotlib
 + networkx
 
-   you can install above package by using `pip install -r requirements.txt`
+ You can install above package by using `pip install -r requirements.txt`
 
 # Getting Started
 ### Data Preparation
